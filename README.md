@@ -22,6 +22,19 @@ https://www.saucedemo.com/
 - Product selection
 - Add to cart
 - Checkout flow
+  
+## Project Scope
+
+Application tested:
+Swag Labs demo e-commerce application
+
+Covered modules:
+- Login
+- Products
+- Cart
+- Checkout
+- Defect validation
+- Test execution
 
 ## Tools & Technologies
 
