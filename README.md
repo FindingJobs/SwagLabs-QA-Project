@@ -56,6 +56,6 @@ Page Object Model (POM)
   - Defect Log
   - Test Summary Report
 
-## Author
+## Kalpana
 
 QA Tester
