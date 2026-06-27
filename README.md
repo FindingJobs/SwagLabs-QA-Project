@@ -1,22 +1,61 @@
-# Swag Labs QA Project
+# Swag Labs QA Automation Project
 
 ## Project Overview
-Testing project for SWAG Labs application.
+This project is created to practice and demonstrate Manual Testing and Automation Testing skills using the Swag Labs demo application.
+
+## Application Under Test
+Swag Labs  
+https://www.saucedemo.com/
 
 ## Testing Performed
-- Test Case Creation
-- Test Execution
-- Defect Reporting
-- Functional Testing
 
-## Tools Used
-- Eclipse
-- Selenium WebDriver
+### Manual Testing
+- Requirement analysis
+- Test scenario creation
+- Test case design
+- Test execution
+- Defect reporting
+- Test summary report
+
+### Automation Testing
+- Login functionality
+- Product selection
+- Add to cart
+- Checkout flow
+
+## Tools & Technologies
+
 - Java
+- Selenium WebDriver
+- TestNG
+- Eclipse IDE
+- GitHub
 - Excel
-- Jira
+- Jira (Defect Tracking)
 
-## Test Documents
-- Test Cases
-- Defect Log
-- Test Summary Report
+## Framework
+Page Object Model (POM)
+
+## Project Contents
+
+- Page classes
+  - LoginPage
+  - ProductPage
+  - CartPage
+  - CheckoutPage
+
+- Test classes
+  - LoginTest
+  - ProductTest
+  - CartTest
+  - CheckoutTest
+
+- Test Documentation
+  - Test Cases
+  - Test Execution
+  - Defect Log
+  - Test Summary Report
+
+## Author
+
+QA Tester
